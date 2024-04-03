@@ -1,3 +1,4 @@
+![logo](https://github.com/sadafrao/sadafrao/blob/main/03.20.16%20at%202024-02-28%20%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20WhatsApp_5507a97a.jpg)
 <h1 align="center">Hi 👋, I'm sadaf sohail</h1>
 <h3 align="center">I am a web developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
