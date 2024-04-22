@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artifical Intellegence**
 
-- 💬 Ask me about **I am still learning from GIAIC.**
+- 💬 Ask me about **I am pursing software engineering @GIAIC.**
 
 - 📫 How to reach me **sohailsadaf88@gmail.com**
 
